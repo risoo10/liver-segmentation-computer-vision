@@ -44,6 +44,7 @@ We evaluated model on the test set using mean and median  of the DSC, Precision 
 |:---------|:-------------:|:-------------:|:-------------:|
 | mean     |    0.8167     |    0.7632     |    0.7566     |
 | median   |    0.9659     |    0.9476     |    0.9843     |
+
 Table 1.: Evaluation of the U-net neural network model
 
 
